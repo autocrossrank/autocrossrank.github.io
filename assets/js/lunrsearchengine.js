@@ -1,37 +1,32 @@
 
 var documents = [{
     "id": 0,
-    "url": "https://www.AutocrossRank.com/404.html",
+    "url": "https://www.autocrossrank.com/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "https://www.AutocrossRank.com/about",
+    "url": "https://www.autocrossrank.com/about",
     "title": "About AutocrossRank.com",
     "body": "coming soon "
     }, {
     "id": 2,
-    "url": "https://www.AutocrossRank.com/categories",
-    "title": "Categories",
-    "body": ""
+    "url": "https://www.autocrossrank.com/",
+    "title": "Home",
+    "body": "  Welcome to AutocrossRank. com      Coming Soon!         Featured:                                                                                                                                                                                                             Coming Soon!                              :               :                                                                                                                                                                                         Chris Hammond                                                  31 Jan 2024                                                                                                                      All Stories:                                                             Coming Soon!              :       :                                                                                               Chris Hammond                          31 Jan 2024                                            "
     }, {
     "id": 3,
-    "url": "https://www.AutocrossRank.com/",
-    "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                             Coming Soon!                              :               :                                                                       31 Jan 2024                                                                                                                      All Stories:                                                             Coming Soon!              :       :                               31 Jan 2024                                            "
-    }, {
-    "id": 4,
-    "url": "https://www.AutocrossRank.com/redirects.json",
+    "url": "https://www.autocrossrank.com/redirects.json",
     "title": "",
     "body": "{} "
     }, {
-    "id": 5,
-    "url": "https://www.AutocrossRank.com/robots.txt",
+    "id": 4,
+    "url": "https://www.autocrossrank.com/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
-    "id": 6,
-    "url": "https://www.AutocrossRank.com/coming-soon",
+    "id": 5,
+    "url": "https://www.autocrossrank.com/coming-soon",
     "title": "Coming Soon!",
     "body": "2024/01/31 - "
     }];
